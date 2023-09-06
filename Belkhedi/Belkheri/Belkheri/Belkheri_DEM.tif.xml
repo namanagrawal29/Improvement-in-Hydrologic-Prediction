@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230427</CreaDate><CreaTime>11131400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20230427" Time="111314">ExtractByMask Narmada_DEM.tif "Sub Watersheds\Belkheri" "D:\IIT Indore\Narmada\Watersheds\Clip\Belkheri\Belkheri_DEM.tif"</Process></lineage></DataProperties></Esri></metadata>
